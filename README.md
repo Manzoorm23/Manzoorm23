@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Manzoorm23
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning plus 2
+-    I've knwoledge in C,HTML and CSS
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
