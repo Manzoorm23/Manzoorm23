@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manzoor.M.A
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m a Btech Cs student
 - 💞️ I've a knowledge in C,HTML and CSS
 - 📫 How to reach me ...
 
