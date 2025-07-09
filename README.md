@@ -3,7 +3,7 @@
 - 🌱 I’m a Btech Cs student
 - 💞️ I've a knowledge in C,Java,HTML and CSS
 - 📫 How to reach me
-- linkedin-https://www.linkedin.com/in/manzoortvm?
+- linkedin-https://www.linkedin.com/in/manzoortvm
 
 <!---
 Manzoorm23/Manzoorm23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
