@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manzoor.M.A
 - 👀 I’m interested in coding and game testing
 - 🌱 I’m a Btech Cs student
-- 💞️ I've a knowledge in C,Java,HTML and CSS
+- 💞️ I've knowledge in C,Java,HTML and CSS
 - 📫 How to reach me
 - linkedin-https://www.linkedin.com/in/manzoortvm
 
