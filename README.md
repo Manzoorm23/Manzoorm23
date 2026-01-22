@@ -46,6 +46,14 @@
 
 ---
 
+## 🎬 Creative Side
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=Video+Editing+%7C+CapCut;Reels+%7C+Promos+%7C+Creative+Edits" />
+</p>
+
+---
+
 ## ⚙️ Skills & Tools
 
 - **Languages:** C, Java, Python  
@@ -91,14 +99,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manzoorm23&theme=algolia&no-frame=true"/>
-</p>
-
----
-
-## 🎬 Creative Side
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFE1&center=true&vCenter=true&width=500&lines=Video+Editing+%7C+CapCut;Reels+%7C+Promos+%7C+Creative+Edits" />
 </p>
 
 ---
