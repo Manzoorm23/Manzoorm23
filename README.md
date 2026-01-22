@@ -62,6 +62,7 @@
 - 🔹 UI/UX with clean layouts
 - 🔹 Mini & Academic Projects
 - 🔹 Game Testing & Bug Finding
+- 🔹 Video Editing
 
 ---
 
