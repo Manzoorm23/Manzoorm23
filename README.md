@@ -41,10 +41,9 @@
 ## 🧬 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bootstrap,django,mysql,sqlite,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,python&theme=dark" />
 </p>
 
----
 
 ## 🛠️ The Arsenal
 
