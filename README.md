@@ -45,14 +45,13 @@
 </p>
 
 
-## 🛠️ The Arsenal
+## ⚙️ Skills & Tools
 
-| 💻 Core & Programming | 🎨 UI / Design | 🧰 Tools |
-|----------------------|--------------|---------|
-| C | Canva | Git |
-| Java | GIMP | GitHub |
-| Python |  | Linux |
-| HTML / CSS |  | VS Code |
+- **Languages:** C, Java, Python  
+- **Web Basics:** HTML, CSS  
+- **Development Tools:** VS Code, Git, GitHub  
+- **Environment:** Windows  
+- **Creative Skills:** Video Editing (CapCut), Canva, GIMP
 
 ---
 
