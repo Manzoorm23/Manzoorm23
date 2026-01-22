@@ -47,12 +47,12 @@
 
 ## 🛠️ The Arsenal
 
-| 💻 Core & Backend | 🎨 UI / Design | 🧰 Tools |
-|------------------|--------------|---------|
-| Python | Figma | Git |
-| Django | Photoshop | GitHub |
-| C / C++ | Canva | Linux |
-| SQL | GIMP | VS Code |
+| 💻 Core & Programming | 🎨 UI / Design | 🧰 Tools |
+|----------------------|--------------|---------|
+| C | Canva | Git |
+| Java | GIMP | GitHub |
+| Python |  | Linux |
+| HTML / CSS |  | VS Code |
 
 ---
 
